@@ -1,4 +1,4 @@
-////
+// cpp program to Add two distances in inch-feet by creating a class named 'AddDistance'//
 
 #include <iostream>
 
