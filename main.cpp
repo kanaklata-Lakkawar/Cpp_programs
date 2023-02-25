@@ -1,44 +1,37 @@
-// cpp program to Add two distances in inch-feet by creating a class named 'AddDistance'//
-
 #include <iostream>
 
 using namespace std;
-class Adddistance
+class Employee
 {
-  public:
-  int inch1;
-  int feet1;
-  int inch2;
-  int feet2;
-  int feets;
-  int inches;
-
- void setData()
-    {
-        cout<<"Enter feets :";
-        cin>>feet1;
-        cout<<"Enter inches :";
-        cin>>inch1;
-        cout<<"Enter feets :";
-        cin>>feet2;
-        cout<<"Enter inches :";
-        cin>>inch2;
-
+    public :
+    string name;
+    int yr;
+    int salary;
+    string address;
+    void setData()
+    {   cout<<"Enter Name :";
+        cin>>name;
+        cout<<"Enter year of joining :";
+        cin>>yr;
+        cout<<"Enter salary :";
+        cin>>salary;
+        cout<<"Enter address :";
+        cin>>address;
     }
     void getData()
     {
-        inches=inch1+inch2;
-        feets=feet1+feet2;
-        if(inches>=12)
-            inches/=12;
-        cout<<"Distance : "<<feets<<" ft "<<inches<<" in";
+        cout<<" "<<name<<"           "<<yr<<"         "<<salary<<"    "<<address<<endl;
     }
-    };
+};
 int main()
-{
-   Adddistance d;
-   d.setData();
-   d.getData();
-
+{   cout << "Hello world!" << endl;
+    Employee e,e1,e2;
+    e.setData();
+    e1.setData();
+    e2.setData();
+    cout<<" Name "<<"|  Year of joining "<<"| Salary "<<"| Address "<<endl;
+    e.getData();
+    e1.getData();
+    e2.getData();
     return 0;
 }
