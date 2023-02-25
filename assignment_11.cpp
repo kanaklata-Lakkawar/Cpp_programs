@@ -1,4 +1,4 @@
-//   //
+//  Cpp program that prints information of three empolyee by creating a class name 'Employee' //
 
 
 #include <iostream>
