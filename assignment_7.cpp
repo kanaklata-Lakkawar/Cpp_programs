@@ -1,5 +1,5 @@
 
-//   //
+// ADD TWO DISTANCES IN INCH-FEET BY CREATING A CLASS NAMED '' ADD DISTANCE  //
 
 #include <iostream>
 
