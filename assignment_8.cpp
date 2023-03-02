@@ -1,4 +1,4 @@
-//   //
+// Add to distances in inch - feet by creating a class named 'AddDistance'   //
 
 #include <iostream>
 
