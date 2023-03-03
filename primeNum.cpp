@@ -1,4 +1,4 @@
-//   //
+//  Cpp program to to find prime numbers //
 
 #include <iostream>
 
