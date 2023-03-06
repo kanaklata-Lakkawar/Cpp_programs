@@ -1,7 +1,8 @@
 /*
 Create aclass 'Student' with three data members which are name,age.address.constructor of the class assign default values.
-
-
+It has two functions with the same name .First function has two parameters for name and age,Second function has thress parameter which
+are name ,age and address respectively.
+Print the name age and address of 10 students.
 */
 
 
