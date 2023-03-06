@@ -1,5 +1,5 @@
 /*
-
+Create aclass 'Student' with three data members which are name,age.address.constructor of the class assign default values.
 
 
 */
