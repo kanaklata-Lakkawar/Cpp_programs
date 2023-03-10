@@ -1,4 +1,4 @@
-//   //
+// Abstraction Example //
 
 #include <iostream>
 
