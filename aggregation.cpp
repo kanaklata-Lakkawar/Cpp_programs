@@ -56,7 +56,6 @@ public:
         cout<<"Roll No =>"<<roll<<endl<<endl;
         add.getData();
     }
-
 };
 class Teacher
 {
