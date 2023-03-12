@@ -20,8 +20,6 @@ if(num==sum)
 cout<<"Number is Armstrong";
 else
     cout<<"Number is not Armstrong";
-
-
  return 0;
 }
 
