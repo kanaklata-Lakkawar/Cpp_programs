@@ -13,7 +13,7 @@ temp=num;
 while(temp!=0)
 {
    int rem=temp%10;
-   sum+=rem*rem*rem;//25
+   sum+=rem*rem*rem;
    temp/=10;hh
 }
 if(num==sum)
