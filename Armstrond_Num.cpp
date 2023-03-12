@@ -14,7 +14,7 @@ while(temp!=0)
 {
    int rem=temp%10;
    sum+=rem*rem*rem;
-   temp/=10;hh
+   temp/=10;
 }
 if(num==sum)
 cout<<"Number is Armstrong";
