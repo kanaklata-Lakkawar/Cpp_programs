@@ -6,7 +6,6 @@ using namespace std;
 
 int main()
 {
-
 int num,temp=0,sum=0;
 cout<<"enter any 3 digit Number :";
 cin>>num;
