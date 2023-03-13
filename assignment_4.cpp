@@ -1,7 +1,6 @@
 // Cpp program to print area of two rectangles having sides (4,5) and(5,8) respectively. by creating a class
 //named 'Rectangle' with a function  named 'Area' which returns area, length and breadth are passed as parameters to its constructor  //
 
-
 #include <iostream>
 
 using namespace std;
