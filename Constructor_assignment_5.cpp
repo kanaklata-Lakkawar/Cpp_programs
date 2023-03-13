@@ -17,7 +17,7 @@ getData()
 {
     cout<<"I Love "<<var<<endl;
 }
-};
+};hjk
 int main()
 {
     Programming p;
