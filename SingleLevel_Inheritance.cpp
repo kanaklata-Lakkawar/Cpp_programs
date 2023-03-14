@@ -22,7 +22,6 @@ class Address
         cout<<"City :"<<city<<endl;
         cout<<"pinCode :"<<pin<<endl;
     }
-
 };
 
 class Student:public Address
