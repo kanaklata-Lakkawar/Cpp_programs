@@ -45,7 +45,6 @@ public:
         cin>>p2;
         cout<<"Enter paper III Marks :";
         cin>>p3;
-
     }
     void getStudentData()
     {   cout<<"---------------------"<<endl;
