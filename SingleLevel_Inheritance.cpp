@@ -73,7 +73,6 @@ public:
         cout<<"TEACHER NAME :"<<name<<endl;;
         cout<<"Employ ID :"<<empID<<endl<<endl;
     }
-
 };
 int main()
 {
