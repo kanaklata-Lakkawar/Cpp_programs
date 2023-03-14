@@ -15,7 +15,6 @@ class Address
         cin>>city;
         cout<<"Enter pinCode :";
         cin>>pin;
-
     }
     void getAddress()
     {
