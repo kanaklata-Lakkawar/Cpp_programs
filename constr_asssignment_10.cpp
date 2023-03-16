@@ -27,7 +27,7 @@ class PostGraduate:public Degree
 };
 int main()
 {
-    Degree d;m
+    Degree d;
     d.getDegree();
     UnderGraduate u;
     u.getDegree();
