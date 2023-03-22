@@ -24,6 +24,5 @@ int main()
     b.getData();
     AddAmount b1(50);
     b1.getData();
-
     return 0;
 }
