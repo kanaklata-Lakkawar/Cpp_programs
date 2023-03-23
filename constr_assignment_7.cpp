@@ -1,4 +1,5 @@
-/*   */
+/* Create a class to print an integer and a character using two functions having the same name but different sequence of the integer 
+and th characher parameters.*/
 
 #include <iostream>
 
