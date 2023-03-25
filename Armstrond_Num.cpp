@@ -11,7 +11,6 @@ cout<<"enter any 3 digit Number :";
 cin>>num;
 temp=num;
 while(temp!=0)
-
 {
    int rem=temp%10;
    sum+=rem*rem*rem;
