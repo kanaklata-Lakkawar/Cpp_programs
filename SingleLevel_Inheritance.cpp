@@ -7,8 +7,7 @@ class Address
     int pltNum;
     string city;
     string pin;
-    void acceptAddress()
-   
+    void acceptAddress()  
  {
         cout<<"Enter Plot No. :";
         cin>>pltNum;
