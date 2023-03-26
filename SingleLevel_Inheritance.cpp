@@ -8,7 +8,8 @@ class Address
     string city;
     string pin;
     void acceptAddress()
-    {
+   
+ {
         cout<<"Enter Plot No. :";
         cin>>pltNum;
         cout<<"Enter City :";
@@ -16,12 +17,14 @@ class Address
         cout<<"Enter pinCode :";
         cin>>pin;
     }
-    void getAddress()
+   
+ void getAddress()
     {
         cout<<" Plot No. :"<<pltNum<<endl;
         cout<<"City :"<<city<<endl;
         cout<<"pinCode :"<<pin<<endl;
     }
+
 };
 
 class Student:public Address
