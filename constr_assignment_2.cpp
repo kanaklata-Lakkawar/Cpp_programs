@@ -32,9 +32,8 @@ int main()
 {
      Rectangle r;
      Rectangle r1(5,8);
-     Rectangle r2(5);
-    
- r.getData();
+     Rectangle r2(5);   
+     r.getData();
      cout<<endl;
     
  r1.getData();
