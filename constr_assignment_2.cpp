@@ -33,7 +33,8 @@ int main()
      Rectangle r;
      Rectangle r1(5,8);
      Rectangle r2(5);
-     r.getData();
+    
+ r.getData();
      cout<<endl;
      r1.getData();
      cout<<endl;
