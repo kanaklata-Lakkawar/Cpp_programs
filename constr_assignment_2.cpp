@@ -36,7 +36,8 @@ int main()
     
  r.getData();
      cout<<endl;
-     r1.getData();
+    
+ r1.getData();
      cout<<endl;
      r2.getData();
      cout<<endl;
