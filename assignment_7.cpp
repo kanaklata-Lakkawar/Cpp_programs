@@ -13,7 +13,6 @@ class Adddistance
   int feet2;
   int feets;
   int inches;
-
  void setData()
     {
         cout<<"Enter feets :";
