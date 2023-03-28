@@ -30,7 +30,7 @@ class Adddistance
         inches=inch1+inch2;
         feets=feet1+feet2;
         if(inches>=12)
-            inches/=12;
+         inches/=12;
         cout<<"Distance : "<<feets<<" ft "<<inches<<" in";
     }
     };
