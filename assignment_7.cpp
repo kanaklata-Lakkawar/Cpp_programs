@@ -23,7 +23,6 @@ class Adddistance
         cin>>feet2;
         cout<<"Enter inches :";
         cin>>inch2;
-
     }
     void getData()
     {
