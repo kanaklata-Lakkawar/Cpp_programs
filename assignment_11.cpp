@@ -10,7 +10,8 @@ class Employee
     string name;
     int yr;
     int salary;
-    string address;    
+    string address;  
+  
    void setData()
     {   cout<<"Enter Name :";
         cin>>name;
