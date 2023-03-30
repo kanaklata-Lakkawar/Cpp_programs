@@ -28,6 +28,7 @@ public:
         cout<<"Enter pin :";
         cin>>pin;
     }
+    
     getData()
     {
         cout<<"Plot no. =>"<<pltno<<endl;
