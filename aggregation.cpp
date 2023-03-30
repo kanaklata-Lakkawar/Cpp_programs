@@ -12,6 +12,7 @@ public:
     string city;
     string state;
     int pin;
+    
     setData()
     {
         cout<<"plot no. :";
