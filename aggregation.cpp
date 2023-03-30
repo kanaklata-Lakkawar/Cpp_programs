@@ -39,6 +39,7 @@ public:
         cout<<"pinCode =>"<<pin<<endl<<endl;
     }
 };
+
 class Student
 {
 public:
