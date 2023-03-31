@@ -21,11 +21,13 @@ public:
         age=0;
         add="Not available";
     }
+
     setInfo(string nm,int ag)
     {
      name=nm;
      age=ag;
     }
+
     setInfo(string nm,int ag,string ad)
     {
      name=nm;
