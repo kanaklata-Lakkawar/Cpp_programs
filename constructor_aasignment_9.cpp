@@ -34,6 +34,7 @@ public:
      age=ag;
      add=ad;
     }
+
     getInfo()
     {
         cout<<endl;
