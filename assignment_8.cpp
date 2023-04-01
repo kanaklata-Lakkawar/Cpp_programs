@@ -15,7 +15,8 @@ public:
      length=l;
      breadth=b;
    }
-   area(int s)
+  
+    area(int s)
    {
        side=s;
    }
