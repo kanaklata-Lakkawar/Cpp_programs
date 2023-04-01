@@ -20,6 +20,7 @@ public:
    {
        side=s;
    }
+    
    void getData()
    {
        cout<<"AREA OF RECTANGLE :"<<length*breadth<<
