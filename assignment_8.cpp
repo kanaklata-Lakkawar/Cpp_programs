@@ -9,7 +9,8 @@ public:
     int length;
     int breadth;
     int side;
-   area(int l,int b)
+  
+    area(int l,int b)
    {
      length=l;
      breadth=b;
