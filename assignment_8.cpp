@@ -25,7 +25,9 @@ public:
    {
        cout<<"AREA OF RECTANGLE :"<<length*breadth<<
    }
+    
 };
+
 int main()
 {
     area a(4,5);
