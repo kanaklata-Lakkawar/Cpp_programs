@@ -10,7 +10,6 @@ class Rectangle
     int breadth;
     int a;
     int perim;
- 
     Rectangle(int l,int b)
     {
         length=l;
