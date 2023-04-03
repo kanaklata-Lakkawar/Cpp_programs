@@ -16,7 +16,6 @@ class Rectangle
         length=l;
         breadth=b;
     }
- 
     void area()
     {
         a=length*breadth;
