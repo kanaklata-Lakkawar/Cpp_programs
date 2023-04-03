@@ -21,7 +21,6 @@ class Rectangle
         a=length*breadth;
         perim=2*(length+breadth);
     }
- 
     void getData()
     {
       cout<<"Area of Rectangle: "<<a<<endl;
