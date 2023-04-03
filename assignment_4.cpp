@@ -10,16 +10,19 @@ class Rectangle
     int breadth;
     int a;
     int perim;
+ 
     Rectangle(int l,int b)
     {
         length=l;
         breadth=b;
     }
+ 
     void area()
     {
         a=length*breadth;
         perim=2*(length+breadth);
     }
+ 
     void getData()
     {
       cout<<"Area of Rectangle: "<<a<<endl;
