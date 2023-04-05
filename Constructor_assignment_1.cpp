@@ -1,6 +1,5 @@
-/* CPP program to print names of students by creating a stuent class. If no name is passed 
-while creating an object of student  class,then the name should be "UNKNOWN",otherwise name 
-should be equal to string valuse passed ehile creating an object of student class. */
+/* CPP program to print names of students by creating a stuent class. If no name is passed while creating an object of student  class,then the name should be 
+"UNKNOWN",otherwise name  should be equal to string valuse passed ehile creating an object of student class. */
 
 
 #include <iostream>
