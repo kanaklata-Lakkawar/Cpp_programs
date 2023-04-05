@@ -25,6 +25,7 @@ setData()
 {
     cout<<"NAME :"<<name<<endl;
 }
+     
 };
 int main()
 {
