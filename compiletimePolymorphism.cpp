@@ -25,7 +25,8 @@ class Count
     }
 };
 
-int main() {
+int main()
+{
     Count count1;
 
     // Call the "void operator ++()" function
