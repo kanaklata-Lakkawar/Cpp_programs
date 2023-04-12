@@ -19,7 +19,8 @@ class Count
         value = value + 1;
     }
 
-    void display() {
+    void display() 
+    {
         cout << "Count: " << value << endl;
     }
 };
