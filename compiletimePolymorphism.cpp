@@ -14,7 +14,8 @@ class Count
     Count() : value(5) {}
 
     // Overload ++ when used as prefix
-    void operator ++() {
+    void operator ++() 
+    {
         value = value + 1;
     }
 
