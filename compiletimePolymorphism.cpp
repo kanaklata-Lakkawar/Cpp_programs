@@ -3,7 +3,8 @@
 #include <iostream>
 using namespace std;
 
-class Count {
+class Count
+{
    private:
     int value;
 
