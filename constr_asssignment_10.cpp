@@ -4,6 +4,7 @@ using namespace std;
 class Degree
 {
    public:
+
        void getDegree()
     {
         cout<<"I got degree"<<endl;
