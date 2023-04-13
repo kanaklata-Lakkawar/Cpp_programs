@@ -21,6 +21,7 @@ class UnderGraduate:public Degree
 class PostGraduate:public Degree
 {
     public:
+
      void getDegree()
     {
         cout<<"I am Postgraduate"<<endl;
