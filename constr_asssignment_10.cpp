@@ -12,6 +12,7 @@ class Degree
 class UnderGraduate:public Degree
 {
     public:
+
     void getDegree()
     {
         cout<<"I am Undergraduate"<<endl;
