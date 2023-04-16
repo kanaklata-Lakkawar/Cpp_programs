@@ -17,6 +17,7 @@ class Address
         cout<<"Enter pinCode :";
         cin>>pin;
     }   
+   
  void getAddress()
     {
         cout<<" Plot No. :"<<pltNum<<endl;
