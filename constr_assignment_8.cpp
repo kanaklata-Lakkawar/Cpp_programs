@@ -10,6 +10,7 @@ class area
 {
 
 public:
+
     int length;
     int breadth;
     int side;
