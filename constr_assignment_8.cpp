@@ -8,6 +8,7 @@ the area of square has one parameter which is the side of square*/
 using namespace std;
 class area
 {
+
 public:
     int length;
     int breadth;
