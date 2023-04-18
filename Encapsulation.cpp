@@ -56,6 +56,7 @@ int main()
    b1.getname();
    b1.getAdd();
    b1.getAmt();
+    
    cout<<"Acc no :"<<b1.getAccno()<<endl;
     cout<<"Name :"<<b1.getname()<<endl;
     cout<<"Add :"<<b1.getAdd()<<endl;
