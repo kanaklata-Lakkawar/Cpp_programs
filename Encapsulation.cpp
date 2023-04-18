@@ -58,8 +58,8 @@ int main()
    b1.getAmt();
     
    cout<<"Acc no :"<<b1.getAccno()<<endl;
-    cout<<"Name :"<<b1.getname()<<endl;
-    cout<<"Add :"<<b1.getAdd()<<endl;
+   cout<<"Name :"<<b1.getname()<<endl;
+   cout<<"Add :"<<b1.getAdd()<<endl;
    cout<<"Amt  :"<<b1.getAmt()<<endl;
 
    b2.setAccno(222);
