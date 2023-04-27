@@ -9,7 +9,6 @@ class Count
    int value;
 
    public:
-
     // Constructor to initialize count to 5
     Count() : value(5) {}
 
