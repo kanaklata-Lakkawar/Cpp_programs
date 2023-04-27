@@ -6,7 +6,7 @@ using namespace std;
 class Count
 {
    private:
-    int value;
+   int value;
 
    public:
 
@@ -18,7 +18,6 @@ class Count
     {
         value = value + 1;
     }
-
     void display() 
     {
         cout << "Count: " << value << endl;
